@@ -17,3 +17,4 @@ public class imageFormationFromSphericalMirrors{
 		double negativedioverdo = -(distancei/distanceo);
 		System.out.println("-di/do (column 7) = "+negativedioverdo);
 	}
+}
