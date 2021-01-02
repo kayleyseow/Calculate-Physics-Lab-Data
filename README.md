@@ -33,9 +33,13 @@ This repository contains my code, in Java, which I wrote to calculate data from 
   - Outputs Degree of Magnification and Type of Magnification for all choices.  
 - [```TwoSlitInterference.java```](https://github.com/kayleyseow/Calculate-Physics-Lab-Data/blob/master/TwoSlitInterference.java)
   - Access the Repl: https://repl.it/@kayleyseow/Two-Slit-Interference#Main.java.
-  - 
+  - Inputs: Number of Patterns, Name of Pattern, and Nth Order Maxima, Split Spacing, X, and Length for the Red, Green, and Blue Colors.
+  - Outputs: Red, Green, and Blue Wavelengths, in mm.
 - [```TheDiffractionGrating.java```](https://github.com/kayleyseow/Calculate-Physics-Lab-Data/blob/master/TheDiffractionGrating.java)
   - Access the Repl: https://repl.it/@kayleyseow/The-Diffraction-Grating#Main.java.
-  
+  - Inputs: X1 and X2 for Violet, Blue, Green, Yellow, Orange, and Red Colors.
+  - Outputs: Wavelength 1 and 2 in cm and mm for Violet, Blue, Green, Yellow, Orange, and Red Colors, and Total Percent Error.
 - [```ConvergingLensImageAndObjectRelationships.java```](https://github.com/kayleyseow/Calculate-Physics-Lab-Data/blob/master/ConvergingLensImageAndObjectRelationships.java)
   - Access the Repl: https://repl.it/@kayleyseow/Converging-Lens-Image-And-Object-Relationships#Main.java.
+  - Inputs: Distance of the Object, Distance of the Image, Height of the Image, and Height of the Object.
+  - Outputs: Theoretical 1 over Focal Length, Height of Image over Height of Object, and Negative Distance of Image over Distance of Object.
