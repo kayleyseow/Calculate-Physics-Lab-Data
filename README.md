@@ -1,5 +1,5 @@
 # Calculate Physics Lab Data
-**Code to calculate physics lab data.**  
+**Code to calculate physics lab data (2019-2020).**  
 
 ## About    
 This repository contains my code, in Java, which I wrote to calculate data from my physics labs. For convenience, they can all be run from my [repl.it](https://repl.it/@kayleyseow).  
@@ -12,7 +12,7 @@ This repository contains my code, in Java, which I wrote to calculate data from 
   - Outputs: Wavelength, Experimental Speed of Sound, Actual Speed of Sound, and Percent Error.
 - [```thePendulum.java```](https://github.com/kayleyseow/Calculate-Physics-Lab-Data/blob/master/thePendulum.java)
   - Access the Repl: https://repl.it/@kayleyseow/The-Pendulum#Main.java.
-  - Inputs: Length and Period of the a Simple Pendulum.
+  - Inputs: Length and Period of a Simple Pendulum.
   - Outputs: The Acceleration Due to Gravity, Absolute Error, and Relative Error.
 - [```imageFormationFromSphericalMirrors.java```](https://github.com/kayleyseow/Calculate-Physics-Lab-Data/blob/master/imageFormationFromSphericalMirrors.java)
   - Access the Repl: https://repl.it/@kayleyseow/Image-Formation-From-Spherical-Mirrors#Main.java.
